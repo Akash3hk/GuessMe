@@ -1,8 +1,4 @@
-# GuessMe
-
-#################################
-##########  GuessMe  ############
-#################################
+GuessMe
 
 System Requirements:
 
@@ -12,7 +8,7 @@ PyQt4
 
 How to Start:
 In command line...
->>>python GuessMe.py
+python GuessMe.py
 
 [The Standalone instoler would be comming soon.]
 
