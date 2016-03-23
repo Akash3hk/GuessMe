@@ -14,4 +14,5 @@ In command line...
 
 [The Standalone instoler would be comming soon.]
 
-The GuessMe game is a game full of fun. The main objective of the game is to correctly identify the random number that the computer has guessed.
+The GuessMe game is a game full of fun. The main objective of the game is to correctly 
+identify the random number that the computer has guessed.
