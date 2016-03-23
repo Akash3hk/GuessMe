@@ -1,0 +1,22 @@
+280
+226
+
+
+281
+211
+
+
+Frame:
+background:rgb(134, 255, 225)
+
+
+Button:
+background-color:rgb(235, 242, 255)
+
+
+
+--------------
+background-color: rgb(65, 131, 215);
+
+background-color: rgb(97, 187, 247);
+
